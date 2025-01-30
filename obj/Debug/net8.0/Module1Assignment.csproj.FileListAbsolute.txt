@@ -1,0 +1,14 @@
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/bin/Debug/net8.0/Module1Assignment
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/bin/Debug/net8.0/Module1Assignment.deps.json
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/bin/Debug/net8.0/Module1Assignment.runtimeconfig.json
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/bin/Debug/net8.0/Module1Assignment.dll
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/bin/Debug/net8.0/Module1Assignment.pdb
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.AssemblyInfoInputs.cache
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.AssemblyInfo.cs
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.csproj.CoreCompileInputs.cache
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.dll
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/refint/Module1Assignment.dll
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.pdb
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/Module1Assignment.genruntimeconfig.cache
+/Users/carsonreiter/Downloads/DotNet/Module1Assignment/obj/Debug/net8.0/ref/Module1Assignment.dll
